@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]
+# Hello, I'm Lisa
 
 ### Aspiring Full-Stack Developer | Frontend-focused, building backend foundations
 
@@ -19,11 +19,11 @@ I am growing my skills in web development, with a current focus on frontend tech
 
 ## Selected Projects
 
-- **[Project Name]** - [One-line description of the problem it solves.] ([Repository](https://github.com/[username]/[repository]))
-- **[Project Name]** - [One-line description of the problem it solves.] ([Repository](https://github.com/[username]/[repository]))
+- **[Nexa]** - [It's such a forum planform. While that planform is combine two community one question one lost & found report at the same time in one place.] ([Repository]([https://github.com/[username]/[repository]](https://github.com/FOUNDATION-G06/nexa-frontend)))
+- **[Mhob]** - [Give recipe with the real documents to all people to can cook the real khmer food.] ([Repository]([https://github.com/[username]/[repository](https://github.com/PreUniversity-Gen06/mhob-web-design)]))
 
 ## Contact
 
 - GitHub: [@LisaMom](https://github.com/LisaMom)
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/[your-profile])
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Mom Lisa](www.linkedin.com/in/mom-lisa-70b453417)
+- Email: [lisamom1280@gmail.com](mailto:lisamom1280@gmail.com)
