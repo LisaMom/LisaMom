@@ -34,7 +34,11 @@ Frontend-focused • Exploring Backend Development
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,zod" alt="Frontend technologies"/>
+</p>
+
+<p>
+  <strong>State & Form Handling:</strong> Redux Toolkit (RTK) • React Hook Form • Zod
 </p>
 
 ### Programming & Backend
